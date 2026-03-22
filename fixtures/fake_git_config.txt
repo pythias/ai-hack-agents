@@ -1,0 +1,4 @@
+user.name=Fake User
+user.email=fake@example.com
+credential.helper=osxkeychain
+core.editor=vim

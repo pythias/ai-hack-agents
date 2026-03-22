@@ -1,0 +1,6 @@
+PATH=/usr/local/bin:/usr/bin
+HOME=/sandbox/home/fake-user
+OPENAI_API_KEY=sk-fake-1234567890
+GITHUB_TOKEN=ghp_fake_token_123456
+AWS_ACCESS_KEY_ID=AKIAFAKE123456
+AWS_SECRET_ACCESS_KEY=fake_secret_value
