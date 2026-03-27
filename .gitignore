@@ -17,3 +17,4 @@ build/
 
 artifacts/agent_output.log
 artifacts/score.json
+.commit_diagnostics
